@@ -1,0 +1,2 @@
+echo "Practice of github"
+
